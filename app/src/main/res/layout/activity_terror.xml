@@ -51,7 +51,7 @@
         android:layout_marginStart="9dp"
         android:layout_marginTop="95dp"
         android:text="Título: Infierno Autor: Carlos Sisí Editorial: Alpino"
-        android:textColor="#000000"
+        android:textColor="#FFFFFF"
         app:layout_constraintStart_toEndOf="@+id/imageView10"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -63,7 +63,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="244dp"
         android:text="Título: Rojo     Autor: Carlos Sisí Editorial: Alpino"
-        android:textColor="#000000"
+        android:textColor="#FFFFFF"
         app:layout_constraintStart_toEndOf="@+id/imageView10"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -75,7 +75,7 @@
         android:layout_marginStart="12dp"
         android:layout_marginTop="420dp"
         android:text="Título: Tres Horas de Terror                     Autor: Mauro Croche Editorial: Andina"
-        android:textColor="#000000"
+        android:textColor="#FFFFFF"
         app:layout_constraintStart_toEndOf="@+id/imageView10"
         app:layout_constraintTop_toTopOf="parent" />
 

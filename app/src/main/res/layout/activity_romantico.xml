@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Romantico"
-    android:background="#FFF">
+    android:background="@drawable/corazon"
+    >
 
     <TextView
         android:id="@+id/textView32"
@@ -15,7 +16,7 @@
         android:layout_marginStart="7dp"
         android:layout_marginTop="240dp"
         android:text="Título: El Acuerdo Autor: Melanie Moreland                       Editorial: DeBolsillo"
-        android:textColor="#000000"
+        android:textColor="#FFFFFF"
         app:layout_constraintStart_toEndOf="@+id/imageView6"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -94,7 +95,7 @@
         android:layout_marginStart="7dp"
         android:layout_marginTop="100dp"
         android:text="Título: Antes de ti Autor: Jojo Moyes Editorial: DeBolsillo"
-        android:textColor="#000000"
+        android:textColor="#FFFFFF"
         app:layout_constraintStart_toEndOf="@+id/imageView6"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -106,7 +107,7 @@
         android:layout_marginStart="7dp"
         android:layout_marginTop="400dp"
         android:text="Título: Sombras de los Hombres Autor: Elena Romero                       Editorial: Pasión"
-        android:textColor="#000000"
+        android:textColor="#FFFFFF"
         app:layout_constraintStart_toEndOf="@+id/imageView6"
         app:layout_constraintTop_toTopOf="parent" />
 

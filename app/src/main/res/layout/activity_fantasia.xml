@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Fantasia"
-    android:background="#FFF">
+    android:background="@drawable/fantasia"
+    >
 
     <Button
         android:id="@+id/button20"
@@ -46,11 +47,11 @@
         android:id="@+id/textView39"
         android:layout_width="149dp"
         android:layout_height="73dp"
-        android:layout_marginLeft="10dp"
         android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
         android:layout_marginTop="78dp"
         android:text="Título: Las Crónicas de Narnia                        Autor: C. S. Lewis Editorial: Harrison"
-        android:textColor="#000000"
+        android:textColor="#FFFFFF"
         app:layout_constraintStart_toEndOf="@+id/imageView16"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -62,7 +63,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="244dp"
         android:text="Título: Harry Potter y La Piedra Filosofal                        Autor: J. K. Rowling Editorial: Funko"
-        android:textColor="#000000"
+        android:textColor="#FFFFFF"
         app:layout_constraintStart_toEndOf="@+id/imageView16"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -74,7 +75,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="412dp"
         android:text="Título: La Comunidad del Anillo                        Autor: J. R. R. Tolkien Editorial: MinoTauro"
-        android:textColor="#000000"
+        android:textColor="#FFFFFF"
         app:layout_constraintStart_toEndOf="@+id/imageView16"
         app:layout_constraintTop_toTopOf="parent" />
 
