@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Cuento"
-    android:background="#FFFF">
+    android:background="@drawable/cuentos">
 
     <Button
         android:id="@+id/button17"
@@ -50,7 +50,7 @@
         android:layout_marginStart="9dp"
         android:layout_marginTop="78dp"
         android:text="Título: Las Mil y Una Noches                   Autor: Anónimo Editorial: España"
-        android:textColor="#000000"
+        android:textColor="#FFFFFF"
         app:layout_constraintStart_toEndOf="@+id/imageView13"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -62,7 +62,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="244dp"
         android:text="Título: Doce Cuentos Peregrinos                   Autor: Gabriel García Márquez                       Editorial: Andina"
-        android:textColor="#000000"
+        android:textColor="#FFFFFF"
         app:layout_constraintStart_toEndOf="@+id/imageView13"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -74,7 +74,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="412dp"
         android:text="Título: Cuentos Completos                   Autor: Carlos Fuentes                       Editorial: Brisas"
-        android:textColor="#000000"
+        android:textColor="#FFFFFF"
         app:layout_constraintStart_toEndOf="@+id/imageView13"
         app:layout_constraintTop_toTopOf="parent" />
 
